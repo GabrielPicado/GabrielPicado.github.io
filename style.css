@@ -151,6 +151,76 @@ section article:hover
     margin-bottom: 10px;
 }
 
+.Higrometro
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.BombaAgua
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Rele
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.LCD
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Pot
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Resistencia
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Jumpers
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 section article:hover
 {
     box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.3);

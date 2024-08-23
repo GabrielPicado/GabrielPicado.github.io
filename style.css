@@ -1,0 +1,197 @@
+html
+{
+    font-family: "Oswald", sans-serif;
+}
+
+h1
+{
+    background-color: #07a01e;
+    text-align: center;
+    text-shadow: #000 2px 2px;
+    color: #ffffff;
+    padding: 3rem;
+    border-bottom: solid #fff;
+}
+
+header
+{
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+div h2
+{
+    margin: 0px 10px;
+    color: #fff;
+    padding: 1rem;
+    font-size: 5rem;
+}
+
+body
+{
+    background-color: #30933f;
+    margin: 0 auto;
+}
+
+nav 
+{    
+    background-color: #dac63b;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around; /* Distribuye los elementos equitativamente */
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li:hover{
+  transition: 250ms;
+  background-color: #baac47;
+}
+
+#SobreNosotros
+{
+    display: inline;
+} 
+
+.info1
+{
+    margin: 22px 10px;
+    width: 20rem;
+    float: left;
+}
+
+.info2
+{
+    margin: 0px 10px;
+    width: 20rem;
+    float: right;
+}
+
+.info3
+{
+    margin: 0px 0px;
+    width: 30rem;
+    margin: 0 auto;
+}
+
+.MisionVision
+{
+    margin: 0px 0px;
+    width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+section article
+{
+    transition: box-shadow 0.3s ease;
+    transition: font-size 0.3s ease;
+    padding: 1rem;
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.9);
+    font-size: 19px;
+    cursor: pointer;
+}
+
+
+section article:hover
+{
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.3);
+    font-size: 19.5px;
+    background-color: rgb(255, 255, 255)
+}
+
+.Componentes
+{
+    margin: 0;
+    background-color: #1b479f ;
+    border: solid black;
+}
+
+.Protoboard
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-top:10px;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+}
+
+.Arduino
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+}
+
+.Dht
+{
+    color: #fff;
+    background-color: #51c6d0  ;
+    margin-left: 10px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section article:hover
+{
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.3);
+    font-size: 19.5px;
+    background-color: rgb(81, 198, 220)
+}
+
+a
+{
+    color: #fff;
+    font-size: 1rem;
+    display: inline;
+    float: right;
+}
+
+footer
+{
+    color: #ffffff;
+    background-color: #07a01e;
+    padding: 2rem;
+    border-style: solid;
+    border-radius: 0.5rem;
+}
+
+footer section
+{
+    float: right;
+}
+
+footer p 
+{
+    margin: 0;
+}
+
+footer a
+{
+    transition: color 0.3s ease;
+    color: #fff;
+}
+
+footer a:hover
+{
+    color: #1b479f;
+}
